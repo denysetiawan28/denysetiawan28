@@ -11,16 +11,19 @@
   <a href="https://open.spotify.com/user/21qholackpgjlblhogatpcaxi?si=c8ca4438b4f2454a"><img height="40px" width="40px" src="https://symbols.getvecta.com/stencil_96/67_spotify-tile.8c1aae57ca.svg" /></a> 
 </p>
 
+
 **currently learning**
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|
 
 
-
-## Currently Learning Language
-<img title="golang" alt="golang" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_82/4_go-language-vertical.a72b6d50f4.svg" />
-<img title="python" alt="python" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_92/75_python-vertical.89957e9945.svg" />
-<img title="nodejs" alt="nodejs" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg" />
+<p align="center">
+**Currently Learning Language**
+<img title="golang" alt="golang" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_82/4_go-language-vertical.a72b6d50f4.svg" />|
+<img title="python" alt="python" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_92/75_python-vertical.89957e9945.svg" />|
+<img title="nodejs" alt="nodejs" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg" />|
+|--|--|--|
+</p>
 
 ## Continue Learning Language
 <img title="java" alt="java" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_85/11_java-vertical.476edba08d.svg" />
