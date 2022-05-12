@@ -17,13 +17,12 @@
 |--|--|--|
 
 
-<p align="center">
 **Currently Learning Language**
 <img title="golang" alt="golang" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_82/4_go-language-vertical.a72b6d50f4.svg" />|
 <img title="python" alt="python" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_92/75_python-vertical.89957e9945.svg" />|
 <img title="nodejs" alt="nodejs" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg" />|
 |--|--|--|
-</p>
+
 
 ## Continue Learning Language
 <img title="java" alt="java" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_85/11_java-vertical.476edba08d.svg" />
