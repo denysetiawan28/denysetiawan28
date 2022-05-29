@@ -13,7 +13,13 @@
   <a href="https://open.spotify.com/user/21qholackpgjlblhogatpcaxi?si=c8ca4438b4f2454a"><img title="spotify" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_96/67_spotify-tile.8c1aae57ca.svg" /></a> 
 </p>
 
--- --
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qholackpgjlblhogatpcaxi&cover_image=true&theme=default&bar_color=000a00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21qholackpgjlblhogatpcaxi&redirect=true)
+  
+</div>
+
+
 ![languages](https://img.shields.io/static/v1?label=&message=learning%20languages%20:%20&color=111&style=for-the-badge) <br>
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=151515&logoColor=1597BB&style=for-the-badge)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=151515&logoColor=FF0000&style=for-the-badge)
