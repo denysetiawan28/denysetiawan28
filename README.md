@@ -34,6 +34,7 @@
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=151515&logoColor=1597BB&style=for-the-badge)
 ![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=151515&logoColor=FF0000&style=for-the-badge)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=151515&logoColor=1597BB&style=for-the-badge)
+![kafka](https://img.shields.io/static/v1?logo=apachekafka&label=&message=kafka&color=151515&logoColor=FF0000&style=for-the-badge)
 &nbsp;&nbsp;&nbsp;
 <br>
 ![database](https://img.shields.io/static/v1?label=&message=learning%20database%20:&color=111&style=for-the-badge) <br>
