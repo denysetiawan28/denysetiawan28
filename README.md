@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://discordapp.com/users/195547633656397824"><img title="discord" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_78/72_discord-tile.213125d9e8.svg" /></a> &nbsp;
-  <a href="https://steamcommunity.com/id/screwcork"><img title="steam" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_96/95_steam-icon.48411dd3f8.svg" /></a> <space> &nbsp;</space>
-  <a href="https://open.spotify.com/user/21qholackpgjlblhogatpcaxi?si=c8ca4438b4f2454a"><img title="spotify" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_96/67_spotify-tile.8c1aae57ca.svg" /></a> 
+  <a href="https://discordapp.com/users/195547633656397824"><img title="discord" height="40px" width="40px" src="https://simpleicons.org/icons/discord.svg" /></a> &nbsp;
+  <a href="https://steamcommunity.com/id/screwcork"><img title="steam" height="40px" width="40px" src="https://simpleicons.org/icons/steam.svg" /></a> <space> &nbsp;</space>
+  <a href="https://open.spotify.com/user/21qholackpgjlblhogatpcaxi?si=c8ca4438b4f2454a"><img title="spotify" height="40px" width="40px" src="https://simpleicons.org/icons/spotify.svg" /></a> 
 </p>
 
 <div align="center">
