@@ -7,12 +7,6 @@
   <a href="https://github.com/denysetiawan28"><img src="https://github-readme-stats.vercel.app/api?username=denysetiawan28&amp;hide_border=true&amp;show_icons=true&amp;theme=react" alt="denysetiawan github stats"></a>
 </p>
 
-<p align="center">
-  <a href="https://discordapp.com/users/195547633656397824"><img title="discord" height="40px" width="40px" src="https://simpleicons.org/icons/discord.svg" /></a> &nbsp;
-  <a href="https://steamcommunity.com/id/screwcork"><img title="steam" height="40px" width="40px" src="https://simpleicons.org/icons/steam.svg" /></a> <space> &nbsp;</space>
-  <a href="https://open.spotify.com/user/21qholackpgjlblhogatpcaxi?si=c8ca4438b4f2454a"><img title="spotify" height="40px" width="40px" src="https://simpleicons.org/icons/spotify.svg" /></a> 
-</p>
-
 <div align="center">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qholackpgjlblhogatpcaxi&cover_image=true&theme=default&bar_color=000a00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21qholackpgjlblhogatpcaxi&redirect=true)
@@ -44,3 +38,10 @@
 ![microsoftsqlserver](https://img.shields.io/static/v1?logo=microsoftsqlserver&label=&message=microsoftSQL&color=151515&logoColor=FF0000&style=for-the-badge)
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=redis&color=151515&logoColor=1597BB&style=for-the-badge)
 ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=151515&logoColor=FF0000&style=for-the-badge)
+<br>
+<h4 align="center">contact me at discord, play with me at steam, or checkout my spotify</h4>
+<p align="center">
+  <a href="https://discordapp.com/users/195547633656397824"><img title="discord" height="40px" width="40px" src="https://simpleicons.org/icons/discord.svg" /></a> &nbsp;
+  <a href="https://steamcommunity.com/id/screwcork"><img title="steam" height="40px" width="40px" src="https://simpleicons.org/icons/steam.svg" /></a> <space> &nbsp;</space>
+  <a href="https://open.spotify.com/user/21qholackpgjlblhogatpcaxi?si=c8ca4438b4f2454a"><img title="spotify" height="40px" width="40px" src="https://simpleicons.org/icons/spotify.svg" /></a> 
+</p>
